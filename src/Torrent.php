@@ -8,7 +8,7 @@ class Torrent
 {
     use \Coco\magicAccess\MagicMethod;
 
-    const int timeout = 30;
+    const timeout = 30;
 
     private string $encoding = 'utf-8';
 
